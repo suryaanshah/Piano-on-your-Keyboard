@@ -28,4 +28,4 @@ l for note B
   <li>Click load from your computer</li>
   <li>Browse this downloaded repository and run it by clicking on the green flag</li>
 </ol>
-Images of <a href""https://photos.app.goo.gl/uTYxbGg92RbbwD3W8">the Steps</a>
+Images of the Steps https://photos.app.goo.gl/uTYxbGg92RbbwD3W8
