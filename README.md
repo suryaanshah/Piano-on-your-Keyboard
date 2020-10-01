@@ -28,4 +28,4 @@ l for note B
   <li>Click load from your computer</li>
   <li>Browse this downloaded repository and run it by clicking on the green flag</li>
 </ol>
-<img alt="Steps to run this repostory" src"Scratch-COLLAGE.jpg"/>
+<img alt="Steps to run this repostory" src"https://photos.google.com/photo/AF1QipOWUM1iVohtw7RqEz2zNkZ-awzjjN9hXCHt8KvO"/>
