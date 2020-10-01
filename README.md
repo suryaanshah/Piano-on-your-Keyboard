@@ -13,3 +13,4 @@ k for note A
 l for note B
 
 #Will make an air version of it soon.
+https://scratch.mit.edu/projects/editor/?tutorial=getStarted
