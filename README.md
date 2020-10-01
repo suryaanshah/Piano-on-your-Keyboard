@@ -13,4 +13,19 @@ k for note A
 l for note B
 
 #Will make an air version of it soon.
-https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+# Running this and other scratch subjects of mine.
+<h2>Method-1</h2>
+<ol>
+  <li>Download Scratch from <a href="https://scratch.mit.edu">Scratch Website</a></li>
+  <li>Clone this ropository</li>
+  <li>Open Scratch>Open this cloned file</li>
+</ol>
+<h2>Method-2</h2>
+<ol>
+  <li>Clone this repository</li>
+  <li>Open <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted">Scratch Website</a></li>
+  <li>Click file button</li>
+  <li>Click load from your computer</li>
+  <li>Browse this downloaded repository and run it by clicking on the green flag</li>
+</ol>
+<img alt="Steps to run this repostory" src"Scratch-COLLAGE.jpg"/>
